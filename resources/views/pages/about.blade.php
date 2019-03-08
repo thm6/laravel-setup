@@ -5,6 +5,6 @@
 @section('content')
 
     <h1>About Me</h1>
-    <p>Setting Up Laravel</p>
+    <p>Setting Up Laravel for IS601 class</p>
 
 @stop
